@@ -1,5 +1,7 @@
-#Livro de receitas :o:
+# Livro de receitas :o:
 
 Olá ! Bem vindo ao livro de receitas :wave:
 
-- strogonoff
+- Strogonoff
+
+- Feijoada
